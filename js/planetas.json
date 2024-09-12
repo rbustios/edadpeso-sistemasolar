@@ -1,0 +1,35 @@
+[
+    {
+        "nombre": "Mercurio",
+        "orbita": "0.24",
+        "gravedad": "3.7"
+    },{
+        "nombre": "Venus",
+        "orbita": "0.62",
+        "gravedad": "8.87"
+    },{
+        "nombre": "Marte",
+        "orbita": "1.88",
+        "gravedad": "3.7"
+    },{
+        "nombre": "Júpiter",
+        "orbita": "11.86",
+        "gravedad": "24.79"
+    },{
+        "nombre": "Saturno",
+        "orbita": "29.46",
+        "gravedad": "10.44"
+    },{
+        "nombre": "Urano",
+        "orbita": "84",
+        "gravedad": "8.87"
+    },{
+        "nombre": "Neptuno",
+        "orbita": "164.8",
+        "gravedad": "11.15"
+    },{
+        "nombre": "Plutón",
+        "orbita": "247",
+        "gravedad": "0.62"
+    }
+]
